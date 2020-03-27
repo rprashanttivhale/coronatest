@@ -28,6 +28,7 @@ public class CoronaTest {
 		
 		
 
+		System.out.println("Thank you !!!");
 	}
 
 }
